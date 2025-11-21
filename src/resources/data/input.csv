@@ -1,5 +1,12 @@
-﻿ID_number;codelist;EN_translation;LT_translation
-001;LT_TYPES_OF_PERSONS;Lithuanian Natural Person;Lietuvos fizinis asmuo
-002;LT_TYPES_OF_PERSONS;Foreign Natural Person;Užsienio fizinis asmuo
-003;LT_TYPES_OF_PERSONS;Lithuanian Legal Entity;Lietuvos juridinis asmuo
-004;LT_TYPES_OF_PERSONS;Foreign Legal Entity;Užsienio juridinis asmuo
+﻿item_code;codelist;EN_description;LT_description;sorting
+001;LT_REJECTION_REASONS;The address provided is not registered in the Address Register. The Address Register is administered by the State Enterprise Centre of Registers, therefore we kindly ask you to contact it for additional information on the registration of the address in the Address Register.;Teikiamas adresas neįregistruotas Adresų registre. Adresų registrą administruoja VĮ Registrų centras, todėl maloniai prašome į jį kreiptis dėl papildomos informacijos adreso įregistravimo į Adresų registrą klausimais.;
+002;LT_REJECTION_REASONS;The mailbox postal name and/or mailbox number is not specified.;Nenurodytas pašto dėžutės pašto pavadinimas ar/ir pašto dėžutės numeris.;
+003;LT_REJECTION_REASONS;The data of the natural person is specified as a legal entity.;Fizinio asmens duomenys nurodyti kaip juridinio asmens.;
+004;LT_REJECTION_REASONS;The person's name and/or surname must be indicated in non-Latin characters.;Asmens vardas ir/ar pavardė nurodyti ne lotyniškais rašmenimis.;
+005;LT_REJECTION_REASONS;The data of the person do not match the data of the person registered in the Taxpayers Register.;Asmens duomenys nesutampa su Mokesčių mokėtojų registre įregistruoto asmens duomenimis.;
+006;LT_REJECTION_REASONS;The name of the legal entity is not in Latin characters.;Juridinio asmens pavadinimas nurodytas ne lotyniškais rašmenimis.;
+007;LT_REJECTION_REASONS;The data of the person does not match the data of the person registered in the Taxpayers Register.;Asmens duomenys nesutampa su Mokesčių mokėtojų registre įregistruoto asmens duomenimis.;
+008;LT_REJECTION_REASONS;Other;;
+;;;;
+;;;;
+;;;;
