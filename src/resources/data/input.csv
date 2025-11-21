@@ -1,0 +1,5 @@
+﻿ID_number;codelist;EN_translation;LT_translation
+001;LT_TYPES_OF_PERSONS;Lithuanian Natural Person;Lietuvos fizinis asmuo
+002;LT_TYPES_OF_PERSONS;Foreign Natural Person;Užsienio fizinis asmuo
+003;LT_TYPES_OF_PERSONS;Lithuanian Legal Entity;Lietuvos juridinis asmuo
+004;LT_TYPES_OF_PERSONS;Foreign Legal Entity;Užsienio juridinis asmuo
